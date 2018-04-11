@@ -2,5 +2,6 @@
 .idea
 *.zip
 google-cloud-sdk
+win
 gcpsdk-processed.nuspec
 *.nupkg

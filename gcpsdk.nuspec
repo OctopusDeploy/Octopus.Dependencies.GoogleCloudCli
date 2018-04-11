@@ -11,6 +11,6 @@
     </metadata>
     <files>
         <!-- https://docs.microsoft.com/en-us/nuget/reference/nuspec#package-folder-structure -->
-        <file src="google-cloud-sdk/**/*.*" target="contentFiles/any/win" />
+        <file src="win/**/*.*" target="contentFiles/any" />
     </files>
 </package>
