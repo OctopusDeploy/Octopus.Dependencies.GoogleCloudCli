@@ -3,3 +3,4 @@
 *.zip
 google-cloud-sdk
 gcpsdk-processed.nuspec
+*.nupkg
