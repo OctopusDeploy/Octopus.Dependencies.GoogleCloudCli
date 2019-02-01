@@ -4,7 +4,10 @@
         <id>Octopus.Dependencies.GoogleCloudCli</id>
         <version>#{GCPSDKVersion}</version>
         <description>Google Cloud CLI Package</description>
-        <authors>Matthew Casperson</authors>
+        <authors>Octopus Deploy</authors>
+        <owners>Octopus Deploy</owners>
+        <licenseUrl>https://github.com/OctopusDeploy/Octopus.Dependencies.GoogleCloudCli/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/OctopusDeploy/Octopus.Dependencies.GoogleCloudCli</projectUrl>
         <contentFiles>
             <files include="contentFiles/any/**" buildAction="None" copyToOutput="false" />
         </contentFiles>
